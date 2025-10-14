@@ -16,7 +16,7 @@
   "dependencies": {
     "@eslint/js": "^9.23.0",
     "@eslint/markdown": "^6.3.0",
-    "typescript-eslint": "^8.22.0",
+    "typescript-eslint": "^8.46.1",
     "eslint-plugin-prettier": "^5.2.3",
     "eslint-plugin-react": "^7.37.4",
     "eslint-plugin-perfectionist": "^4.7.0",
